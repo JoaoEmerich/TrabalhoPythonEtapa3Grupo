@@ -1,0 +1,6 @@
+
+Abra o terminal e rode:
+   ```bash
+   pip install -r requirements.txt
+   python gerar_base.py
+   streamlit run app.py
